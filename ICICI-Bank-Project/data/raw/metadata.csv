@@ -1,0 +1,10 @@
+organisation,Reserve Bank of India
+sectors,"Finance, Banking"
+updated_frequency,Yearly
+granularity,"Yearly"
+time_saved,6 hours
+source,"Reserve Bank of India"
+source_link,"https://data.rbi.org.in/DBIE/#/dbie/reports/Publication/Time-Series%20Publications/Bank%20Branch%20Statistics/Quarterly/Functioning%20Offices"
+time_period,"2004-05 to 2024-25, 2004 to 2025"
+units,"value in absolute number, value in percentage, value in rupees crore"
+citation,"Reserve Bank of India. Year wise Performance Statistics of ICICI Bank-Credit Risk, Profitability, Risk Exposure, Operational Risk, Customer Service [Data set]. Dataful. https://dataful.in/dataset/23856"

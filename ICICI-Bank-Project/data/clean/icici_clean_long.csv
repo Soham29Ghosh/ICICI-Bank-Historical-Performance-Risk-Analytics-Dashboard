@@ -1,0 +1,213 @@
+fiscal_year,fy_label,category,sub_category,metric,value,unit,data_type
+2004,FY04,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,4.78,%,Year-end balance
+2004,FY04,Credit Risk,Gross Advances,gross_advances,63823.03,Rs crore,Year-end balance
+2004,FY04,Credit Risk,Gross NPAs,gross_npa,3047.59,Rs crore,Year-end balance
+2005,FY05,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,2.98,%,Year-end balance
+2005,FY05,Credit Risk,Gross Advances,gross_advances,93044.6,Rs crore,Year-end balance
+2005,FY05,Credit Risk,Gross NPAs,gross_npa,2770.4,Rs crore,Year-end balance
+2005,FY05,Profitability,Operating Profit,operating_profit,2956.0,Rs crore,Full-year total
+2005,FY05,Profitability,Provisions and Contingencies,provisions,950.8,Rs crore,Full-year total
+2005,FY05,Risk Exposure,Contingent Liabilities,contingent_liabilities,268153.74,Rs crore,Year-end balance
+2005,FY05,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,40236.42,Rs crore,Year-end balance
+2006,FY06,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,1.51,%,Year-end balance
+2006,FY06,Credit Risk,Gross Advances,gross_advances,147625.31,Rs crore,Year-end balance
+2006,FY06,Credit Risk,Gross NPAs,gross_npa,2222.58,Rs crore,Year-end balance
+2006,FY06,Profitability,Operating Profit,operating_profit,3888.42,Rs crore,Full-year total
+2006,FY06,Profitability,Provisions and Contingencies,provisions,1348.34,Rs crore,Full-year total
+2006,FY06,Risk Exposure,Contingent Liabilities,contingent_liabilities,395033.67,Rs crore,Year-end balance
+2006,FY06,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,56646.6,Rs crore,Year-end balance
+2007,FY07,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,2.08,%,Year-end balance
+2007,FY07,Credit Risk,Gross Advances,gross_advances,198193.0,Rs crore,Year-end balance
+2007,FY07,Credit Risk,Gross NPAs,gross_npa,4126.0,Rs crore,Year-end balance
+2007,FY07,Profitability,Operating Profit,operating_profit,5874.41,Rs crore,Full-year total
+2007,FY07,Profitability,Provisions and Contingencies,provisions,2764.19,Rs crore,Full-year total
+2007,FY07,Risk Exposure,Contingent Liabilities,contingent_liabilities,562959.91,Rs crore,Year-end balance
+2007,FY07,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,85236.57,Rs crore,Year-end balance
+2008,FY08,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,3.3,%,Year-end balance
+2008,FY08,Credit Risk,Gross Advances,gross_advances,229892.0,Rs crore,Year-end balance
+2008,FY08,Credit Risk,Gross NPAs,gross_npa,7580.0,Rs crore,Year-end balance
+2008,FY08,Profitability,Operating Profit,operating_profit,7960.68,Rs crore,Full-year total
+2008,FY08,Profitability,Provisions and Contingencies,provisions,3802.95,Rs crore,Full-year total
+2008,FY08,Risk Exposure,Contingent Liabilities,contingent_liabilities,1211082.33,Rs crore,Year-end balance
+2008,FY08,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,89783.05,Rs crore,Year-end balance
+2009,FY09,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,4.32,%,Year-end balance
+2009,FY09,Credit Risk,Gross Advances,gross_advances,223621.09,Rs crore,Year-end balance
+2009,FY09,Credit Risk,Gross NPAs,gross_npa,9649.31,Rs crore,Year-end balance
+2009,FY09,Profitability,Operating Profit,operating_profit,8925.23,Rs crore,Full-year total
+2009,FY09,Profitability,Provisions and Contingencies,provisions,5167.09,Rs crore,Full-year total
+2009,FY09,Risk Exposure,Contingent Liabilities,contingent_liabilities,834683.0,Rs crore,Year-end balance
+2009,FY09,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,82985.57,Rs crore,Year-end balance
+2010,FY10,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,6.52,%,Year-end balance
+2010,FY10,Credit Risk,Gross Advances,gross_advances,142100.56,Rs crore,Year-end balance
+2010,FY10,Credit Risk,Gross NPAs,gross_npa,9267.42,Rs crore,Year-end balance
+2010,FY10,Profitability,Operating Profit,operating_profit,9732.18,Rs crore,Full-year total
+2010,FY10,Profitability,Provisions and Contingencies,provisions,5707.2,Rs crore,Full-year total
+2010,FY10,Risk Exposure,Contingent Liabilities,contingent_liabilities,727084.06,Rs crore,Year-end balance
+2010,FY10,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,74997.68,Rs crore,Year-end balance
+2011,FY11,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,5.8,%,Year-end balance
+2011,FY11,Credit Risk,Gross Advances,gross_advances,169181.76,Rs crore,Year-end balance
+2011,FY11,Credit Risk,Gross NPAs,gross_npa,9815.96,Rs crore,Year-end balance
+2011,FY11,Profitability,Operating Profit,operating_profit,9047.54,Rs crore,Full-year total
+2011,FY11,Profitability,Provisions and Contingencies,provisions,3896.17,Rs crore,Full-year total
+2011,FY11,Risk Exposure,Contingent Liabilities,contingent_liabilities,923121.61,Rs crore,Year-end balance
+2011,FY11,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,104306.93,Rs crore,Year-end balance
+2012,FY12,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,4.83,%,Year-end balance
+2012,FY12,Credit Risk,Gross Advances,gross_advances,192333.8,Rs crore,Year-end balance
+2012,FY12,Credit Risk,Gross NPAs,gross_npa,9292.6,Rs crore,Year-end balance
+2012,FY12,Profitability,Operating Profit,operating_profit,10386.47,Rs crore,Full-year total
+2012,FY12,Profitability,Provisions and Contingencies,provisions,3921.22,Rs crore,Full-year total
+2012,FY12,Risk Exposure,Contingent Liabilities,contingent_liabilities,915465.11,Rs crore,Year-end balance
+2012,FY12,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,101762.6,Rs crore,Year-end balance
+2013,FY13,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,3.22,%,Year-end balance
+2013,FY13,Credit Risk,Gross Advances,gross_advances,298416.35,Rs crore,Year-end balance
+2013,FY13,Credit Risk,Gross NPAs,gross_npa,9607.75,Rs crore,Year-end balance
+2013,FY13,Profitability,Operating Profit,operating_profit,13199.23,Rs crore,Full-year total
+2013,FY13,Profitability,Provisions and Contingencies,provisions,4873.76,Rs crore,Full-year total
+2013,FY13,Risk Exposure,Contingent Liabilities,contingent_liabilities,789989.31,Rs crore,Year-end balance
+2013,FY13,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,115676.72,Rs crore,Year-end balance
+2014,FY14,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,3.03,%,Year-end balance
+2014,FY14,Credit Risk,Gross Advances,gross_advances,347211.5,Rs crore,Year-end balance
+2014,FY14,Credit Risk,Gross NPAs,gross_npa,10505.84,Rs crore,Year-end balance
+2014,FY14,Customer Service,Ombudsman Complaints,ombudsman_complaints,5325.0,Count,Full-year total
+2014,FY14,Profitability,Operating Profit,operating_profit,16594.57,Rs crore,Full-year total
+2014,FY14,Profitability,Provisions and Contingencies,provisions,6784.1,Rs crore,Full-year total
+2014,FY14,Risk Exposure,Contingent Liabilities,contingent_liabilities,781430.45,Rs crore,Year-end balance
+2014,FY14,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,133664.46,Rs crore,Year-end balance
+2015,FY15,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,3.78,%,Year-end balance
+2015,FY15,Credit Risk,Gross Advances,gross_advances,398962.03,Rs crore,Year-end balance
+2015,FY15,Credit Risk,Gross NPAs,gross_npa,15094.69,Rs crore,Year-end balance
+2015,FY15,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,7051.73,Rs crore,Full-year total
+2015,FY15,Credit Risk,Actual Recoveries,recoveries,953.24,Rs crore,Full-year total
+2015,FY15,Credit Risk,Write-Offs,write_offs,1524.38,Rs crore,Full-year total
+2015,FY15,Customer Service,Ombudsman Complaints,ombudsman_complaints,6116.0,Count,Full-year total
+2015,FY15,Profitability,Operating Profit,operating_profit,19719.91,Rs crore,Full-year total
+2015,FY15,Profitability,Provisions and Contingencies,provisions,8544.56,Rs crore,Full-year total
+2015,FY15,Risk Exposure,Contingent Liabilities,contingent_liabilities,851977.61,Rs crore,Year-end balance
+2015,FY15,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,160917.9,Rs crore,Year-end balance
+2016,FY16,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,5.82,%,Year-end balance
+2016,FY16,Credit Risk,Gross Advances,gross_advances,450182.56,Rs crore,Year-end balance
+2016,FY16,Credit Risk,Gross NPAs,gross_npa,26221.25,Rs crore,Year-end balance
+2016,FY16,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,11049.65,Rs crore,Full-year total
+2016,FY16,Credit Risk,Actual Recoveries,recoveries,1488.04,Rs crore,Full-year total
+2016,FY16,Credit Risk,Write-Offs,write_offs,2634.94,Rs crore,Full-year total
+2016,FY16,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,3578.0,Count,Full-year total
+2016,FY16,Customer Service,Ombudsman Complaints,ombudsman_complaints,7900.0,Count,Full-year total
+2016,FY16,Profitability,Operating Profit,operating_profit,23863.53,Rs crore,Full-year total
+2016,FY16,Profitability,Provisions and Contingencies,provisions,14137.25,Rs crore,Full-year total
+2016,FY16,Risk Exposure,Contingent Liabilities,contingent_liabilities,900798.78,Rs crore,Year-end balance
+2016,FY16,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,183095.75,Rs crore,Year-end balance
+2017,FY17,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,8.74,%,Year-end balance
+2017,FY17,Credit Risk,Gross Advances,gross_advances,482460.4,Rs crore,Year-end balance
+2017,FY17,Credit Risk,Gross NPAs,gross_npa,42159.38,Rs crore,Year-end balance
+2017,FY17,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,25969.35,Rs crore,Full-year total
+2017,FY17,Credit Risk,Actual Recoveries,recoveries,4918.55,Rs crore,Full-year total
+2017,FY17,Credit Risk,Write-Offs,write_offs,10993.49,Rs crore,Full-year total
+2017,FY17,Customer Service,Ombudsman Complaints,ombudsman_complaints,9541.0,Count,Full-year total
+2017,FY17,Profitability,Operating Profit,operating_profit,26486.75,Rs crore,Full-year total
+2017,FY17,Profitability,Provisions and Contingencies,provisions,16685.66,Rs crore,Full-year total
+2017,FY17,Risk Exposure,Contingent Liabilities,contingent_liabilities,1030993.71,Rs crore,Year-end balance
+2017,FY17,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,204873.26,Rs crore,Year-end balance
+2018,FY18,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,9.9,%,Year-end balance
+2018,FY18,Credit Risk,Gross Advances,gross_advances,537945.09,Rs crore,Year-end balance
+2018,FY18,Credit Risk,Gross NPAs,gross_npa,53240.18,Rs crore,Year-end balance
+2018,FY18,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,17657.25,Rs crore,Full-year total
+2018,FY18,Credit Risk,Actual Recoveries,recoveries,4176.08,Rs crore,Full-year total
+2018,FY18,Credit Risk,Write-Offs,write_offs,5840.2,Rs crore,Full-year total
+2018,FY18,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,5162.0,Count,Full-year total
+2018,FY18,Customer Service,Ombudsman Complaints,ombudsman_complaints,10465.0,Count,Full-year total
+2018,FY18,Operational Risk,Fraud Amount,fraud_amount,6.44,Rs crore,Full-year total
+2018,FY18,Operational Risk,Fraud Incidents,fraud_incidents,1902.0,Count,Full-year total
+2018,FY18,Profitability,Operating Profit,operating_profit,24741.53,Rs crore,Full-year total
+2018,FY18,Profitability,Provisions and Contingencies,provisions,17964.11,Rs crore,Full-year total
+2018,FY18,Risk Exposure,Contingent Liabilities,contingent_liabilities,1289244.0,Rs crore,Year-end balance
+2018,FY18,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,234982.99,Rs crore,Year-end balance
+2019,FY19,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,7.38,%,Year-end balance
+2019,FY19,Credit Risk,Gross Advances,gross_advances,618985.23,Rs crore,Year-end balance
+2019,FY19,Credit Risk,Gross NPAs,gross_npa,45676.04,Rs crore,Year-end balance
+2019,FY19,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,7607.49,Rs crore,Full-year total
+2019,FY19,Credit Risk,Actual Recoveries,recoveries,3073.16,Rs crore,Full-year total
+2019,FY19,Credit Risk,Write-Offs,write_offs,5464.48,Rs crore,Full-year total
+2019,FY19,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,5092.0,Count,Full-year total
+2019,FY19,Customer Service,Ombudsman Complaints,ombudsman_complaints,11257.0,Count,Full-year total
+2019,FY19,Operational Risk,Fraud Amount,fraud_amount,4.9,Rs crore,Full-year total
+2019,FY19,Operational Risk,Fraud Incidents,fraud_incidents,1737.0,Count,Full-year total
+2019,FY19,Profitability,Operating Profit,operating_profit,23437.9,Rs crore,Full-year total
+2019,FY19,Profitability,Provisions and Contingencies,provisions,20074.6,Rs crore,Full-year total
+2019,FY19,Risk Exposure,Contingent Liabilities,contingent_liabilities,1922038.29,Rs crore,Year-end balance
+2019,FY19,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,265517.42,Rs crore,Year-end balance
+2020,FY20,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,6.04,%,Year-end balance
+2020,FY20,Credit Risk,Gross Advances,gross_advances,676290.33,Rs crore,Year-end balance
+2020,FY20,Credit Risk,Gross NPAs,gross_npa,40829.09,Rs crore,Year-end balance
+2020,FY20,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,9214.62,Rs crore,Full-year total
+2020,FY20,Credit Risk,Actual Recoveries,recoveries,4715.58,Rs crore,Full-year total
+2020,FY20,Credit Risk,Write-Offs,write_offs,4579.47,Rs crore,Full-year total
+2020,FY20,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,11844.0,Count,Full-year total
+2020,FY20,Customer Service,Ombudsman Complaints,ombudsman_complaints,21372.0,Count,Full-year total
+2020,FY20,Operational Risk,Fraud Amount,fraud_amount,5.72,Rs crore,Full-year total
+2020,FY20,Operational Risk,Fraud Incidents,fraud_incidents,2126.0,Count,Full-year total
+2020,FY20,Profitability,Operating Profit,operating_profit,28101.28,Rs crore,Full-year total
+2020,FY20,Profitability,Provisions and Contingencies,provisions,20170.46,Rs crore,Full-year total
+2020,FY20,Risk Exposure,Contingent Liabilities,contingent_liabilities,2523825.8,Rs crore,Year-end balance
+2020,FY20,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,295558.98,Rs crore,Year-end balance
+2021,FY21,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,5.33,%,Year-end balance
+2021,FY21,Credit Risk,Gross Advances,gross_advances,765543.02,Rs crore,Year-end balance
+2021,FY21,Credit Risk,Gross NPAs,gross_npa,40841.42,Rs crore,Year-end balance
+2021,FY21,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,15215.0,Rs crore,Full-year total
+2021,FY21,Credit Risk,Actual Recoveries,recoveries,4020.0,Rs crore,Full-year total
+2021,FY21,Credit Risk,Write-Offs,write_offs,6144.0,Rs crore,Full-year total
+2021,FY21,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,13741.0,Count,Full-year total
+2021,FY21,Customer Service,Ombudsman Complaints,ombudsman_complaints,28065.0,Count,Full-year total
+2021,FY21,Operational Risk,Fraud Amount,fraud_amount,3.06,Rs crore,Full-year total
+2021,FY21,Operational Risk,Fraud Incidents,fraud_incidents,1263.0,Count,Full-year total
+2021,FY21,Profitability,Operating Profit,operating_profit,36397.13,Rs crore,Full-year total
+2021,FY21,Profitability,Provisions and Contingencies,provisions,20204.44,Rs crore,Full-year total
+2021,FY21,Risk Exposure,Contingent Liabilities,contingent_liabilities,2648640.67,Rs crore,Year-end balance
+2021,FY21,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,341752.59,Rs crore,Year-end balance
+2022,FY22,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,3.76,%,Year-end balance
+2022,FY22,Credit Risk,Gross Advances,gross_advances,885676.34,Rs crore,Year-end balance
+2022,FY22,Credit Risk,Gross NPAs,gross_npa,33294.92,Rs crore,Year-end balance
+2022,FY22,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,18405.0,Rs crore,Full-year total
+2022,FY22,Credit Risk,Actual Recoveries,recoveries,5422.0,Rs crore,Full-year total
+2022,FY22,Credit Risk,Write-Offs,write_offs,8722.0,Rs crore,Full-year total
+2022,FY22,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,12174.0,Count,Full-year total
+2022,FY22,Customer Service,Ombudsman Complaints,ombudsman_complaints,22043.0,Count,Full-year total
+2022,FY22,Operational Risk,Fraud Amount,fraud_amount,9.52,Rs crore,Full-year total
+2022,FY22,Operational Risk,Fraud Incidents,fraud_incidents,4429.0,Count,Full-year total
+2022,FY22,Profitability,Operating Profit,operating_profit,39250.31,Rs crore,Full-year total
+2022,FY22,Profitability,Provisions and Contingencies,provisions,15910.82,Rs crore,Full-year total
+2022,FY22,Risk Exposure,Contingent Liabilities,contingent_liabilities,3867675.87,Rs crore,Year-end balance
+2022,FY22,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,400808.43,Rs crore,Year-end balance
+2023,FY23,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,2.87,%,Year-end balance
+2023,FY23,Credit Risk,Gross Advances,gross_advances,1044652.71,Rs crore,Year-end balance
+2023,FY23,Credit Risk,Gross NPAs,gross_npa,29986.07,Rs crore,Year-end balance
+2023,FY23,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,17464.0,Rs crore,Full-year total
+2023,FY23,Credit Risk,Actual Recoveries,recoveries,7428.0,Rs crore,Full-year total
+2023,FY23,Credit Risk,Write-Offs,write_offs,4381.0,Rs crore,Full-year total
+2023,FY23,Customer Service,Total Maintainable Complaints Disposed,complaints_disposed,12114.0,Count,Full-year total
+2023,FY23,Customer Service,Ombudsman Complaints,ombudsman_complaints,16602.0,Count,Full-year total
+2023,FY23,Profitability,Operating Profit,operating_profit,49086.81,Rs crore,Full-year total
+2023,FY23,Profitability,Provisions and Contingencies,provisions,17190.31,Rs crore,Full-year total
+2023,FY23,Risk Exposure,Contingent Liabilities,contingent_liabilities,4283165.45,Rs crore,Year-end balance
+2023,FY23,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,484696.26,Rs crore,Year-end balance
+2024,FY24,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,2.26,%,Year-end balance
+2024,FY24,Credit Risk,Gross Advances,gross_advances,1206487.31,Rs crore,Year-end balance
+2024,FY24,Credit Risk,Gross NPAs,gross_npa,27313.87,Rs crore,Year-end balance
+2024,FY24,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,18824.0,Rs crore,Full-year total
+2024,FY24,Credit Risk,Actual Recoveries,recoveries,5896.0,Rs crore,Full-year total
+2024,FY24,Credit Risk,Write-Offs,write_offs,5754.0,Rs crore,Full-year total
+2024,FY24,Operational Risk,Fraud Amount,fraud_amount,322.61,Rs crore,Full-year total
+2024,FY24,Operational Risk,Fraud Incidents,fraud_incidents,6588.0,Count,Full-year total
+2024,FY24,Profitability,Operating Profit,operating_profit,58130.75,Rs crore,Full-year total
+2024,FY24,Profitability,Provisions and Contingencies,provisions,17242.48,Rs crore,Full-year total
+2024,FY24,Risk Exposure,Contingent Liabilities,contingent_liabilities,4655761.78,Rs crore,Year-end balance
+2024,FY24,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,574731.11,Rs crore,Year-end balance
+2025,FY25,Credit Risk,Gross NPAs to Gross Advances Ratio,gnpa_ratio_pct,1.73,%,Year-end balance
+2025,FY25,Credit Risk,Gross Advances,gross_advances,1359789.89,Rs crore,Year-end balance
+2025,FY25,Credit Risk,Gross NPAs,gross_npa,23523.1,Rs crore,Year-end balance
+2025,FY25,Credit Risk,New Accretion to NPAs from Standard Advances,new_npa_added,20174.0,Rs crore,Full-year total
+2025,FY25,Credit Risk,Actual Recoveries,recoveries,8075.0,Rs crore,Full-year total
+2025,FY25,Credit Risk,Write-Offs,write_offs,8707.0,Rs crore,Full-year total
+2025,FY25,Profitability,Operating Profit,operating_profit,67298.82,Rs crore,Full-year total
+2025,FY25,Profitability,Provisions and Contingencies,provisions,20071.82,Rs crore,Full-year total
+2025,FY25,Risk Exposure,Contingent Liabilities,contingent_liabilities,6039713.65,Rs crore,Year-end balance
+2025,FY25,Risk Exposure,Exposure to sensitive sectors,sensitive_sector_exposure,656642.1,Rs crore,Year-end balance

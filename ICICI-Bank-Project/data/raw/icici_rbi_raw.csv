@@ -1,0 +1,213 @@
+﻿time_period,bank_name,category,sub_category,value,unit,note
+31-03-2025,Icici Bank Limited,Credit Risk,Gross NPAs,23523.10,value in rupees crore,value: Cumulative data
+31-03-2025,Icici Bank Limited,Credit Risk,Gross Advances,1359789.89,value in rupees crore,value: Cumulative data
+31-03-2025,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,1.73,value in percentage,value: Cumulative data
+2024-25,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,20174.00,value in rupees crores,value: Fiscal year data
+2024-25,Icici Bank Limited,Credit Risk,Write-Offs,8707.00,value in rupees crores,value: Fiscal year data
+2024-25,Icici Bank Limited,Credit Risk,Actual Recoveries,8075.00,value in rupees crores,value: Fiscal year data
+2024-25,Icici Bank Limited,Profitability,Provisions and Contingencies,20071.82,value in rupees crore,value: Fiscal year data
+2024-25,Icici Bank Limited,Profitability,Operating Profit,67298.82,value in rupees crore,value: Fiscal year data
+31-03-2025,Icici Bank Limited,Risk Exposure,Contingent Liabilities,6039713.65,value in rupees crore,value: Cumulative data
+31-03-2025,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,656642.10,value in rupees crore,value: Cumulative data
+31-03-2024,Icici Bank Limited,Credit Risk,Gross NPAs,27313.87,value in rupees crore,value: Cumulative data
+31-03-2024,Icici Bank Limited,Credit Risk,Gross Advances,1206487.31,value in rupees crore,value: Cumulative data
+31-03-2024,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,2.26,value in percentage,value: Cumulative data
+2023-24,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,18824.00,value in rupees crores,value: Fiscal year data
+2023-24,Icici Bank Limited,Credit Risk,Actual Recoveries,5896.00,value in rupees crores,value: Fiscal year data
+2023-24,Icici Bank Limited,Credit Risk,Write-Offs,5754.00,value in rupees crores,value: Fiscal year data
+2023-24,Icici Bank Limited,Operational Risk,Fraud Incidents,6588.00,value in absolute number,value: Fiscal year data
+2023-24,Icici Bank Limited,Operational Risk,Fraud Amount,322.61,value in rupees crore,value: Fiscal year data
+2023-24,Icici Bank Limited,Profitability,Provisions and Contingencies,17242.48,value in rupees crore,value: Fiscal year data
+2023-24,Icici Bank Limited,Profitability,Operating Profit,58130.75,value in rupees crore,value: Fiscal year data
+31-03-2024,Icici Bank Limited,Risk Exposure,Contingent Liabilities,4655761.78,value in rupees crore,value: Cumulative data
+31-03-2024,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,574731.11,value in rupees crore,value: Cumulative data
+31-03-2023,Icici Bank Limited,Credit Risk,Gross NPAs,29986.07,value in rupees crore,value: Cumulative data
+31-03-2023,Icici Bank Limited,Credit Risk,Gross Advances,1044652.71,value in rupees crore,value: Cumulative data
+31-03-2023,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,2.87,value in percentage,value: Cumulative data
+2022-23,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,17464.00,value in rupees crores,value: Fiscal year data
+2022-23,Icici Bank Limited,Credit Risk,Actual Recoveries,7428.00,value in rupees crores,value: Fiscal year data
+2022-23,Icici Bank Limited,Credit Risk,Write-Offs,4381.00,value in rupees crores,value: Fiscal year data
+2022-23,Icici Bank Limited,Customer Service,Ombudsman Complaints,16602.00,value in absolute number,value: Fiscal year data
+2022-23,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,12114.00,value in absolute number,value: Fiscal year data
+2022-23,Icici Bank Limited,Profitability,Provisions and Contingencies,17190.31,value in rupees crore,value: Fiscal year data
+2022-23,Icici Bank Limited,Profitability,Operating Profit,49086.81,value in rupees crore,value: Fiscal year data
+31-03-2023,Icici Bank Limited,Risk Exposure,Contingent Liabilities,4283165.45,value in rupees crore,value: Cumulative data
+31-03-2023,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,484696.26,value in rupees crore,value: Cumulative data
+31-03-2022,Icici Bank Limited,Credit Risk,Gross NPAs,33294.92,value in rupees crore,value: Cumulative data
+31-03-2022,Icici Bank Limited,Credit Risk,Gross Advances,885676.34,value in rupees crore,value: Cumulative data
+31-03-2022,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,3.76,value in percentage,value: Cumulative data
+2021-22,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,18405.00,value in rupees crores,value: Fiscal year data
+2021-22,Icici Bank Limited,Credit Risk,Write-Offs,8722.00,value in rupees crores,value: Fiscal year data
+2021-22,Icici Bank Limited,Credit Risk,Actual Recoveries,5422.00,value in rupees crores,value: Fiscal year data
+2021-22,Icici Bank Limited,Customer Service,Ombudsman Complaints,22043.00,value in absolute number,value: Fiscal year data
+2021-22,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,12174.00,value in absolute number,value: Fiscal year data
+2021-22,Icici Bank Limited,Operational Risk,Fraud Incidents,4429.00,value in absolute number,value: Fiscal year data
+2021-22,Icici Bank Limited,Operational Risk,Fraud Amount,9.52,value in rupees crore,value: Fiscal year data
+2021-22,Icici Bank Limited,Profitability,Provisions and Contingencies,15910.82,value in rupees crore,value: Fiscal year data
+2021-22,Icici Bank Limited,Profitability,Operating Profit,39250.31,value in rupees crore,value: Fiscal year data
+31-03-2022,Icici Bank Limited,Risk Exposure,Contingent Liabilities,3867675.87,value in rupees crore,value: Cumulative data
+31-03-2022,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,400808.43,value in rupees crore,value: Cumulative data
+31-03-2021,Icici Bank Limited,Credit Risk,Gross NPAs,40841.42,value in rupees crore,value: Cumulative data
+31-03-2021,Icici Bank Limited,Credit Risk,Gross Advances,765543.02,value in rupees crore,value: Cumulative data
+31-03-2021,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,5.33,value in percentage,value: Cumulative data
+2020-21,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,15215.00,value in rupees crores,value: Fiscal year data
+2020-21,Icici Bank Limited,Credit Risk,Write-Offs,6144.00,value in rupees crores,value: Fiscal year data
+2020-21,Icici Bank Limited,Credit Risk,Actual Recoveries,4020.00,value in rupees crores,value: Fiscal year data
+2020-21,Icici Bank Limited,Customer Service,Ombudsman Complaints,28065.00,value in absolute number,value: Fiscal year data
+2020-21,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,13741.00,value in absolute number,value: Fiscal year data
+2020-21,Icici Bank Limited,Operational Risk,Fraud Incidents,1263.00,value in absolute number,value: Fiscal year data
+2020-21,Icici Bank Limited,Operational Risk,Fraud Amount,3.06,value in rupees crore,value: Fiscal year data
+2020-21,Icici Bank Limited,Profitability,Provisions and Contingencies,20204.44,value in rupees crore,value: Fiscal year data
+2020-21,Icici Bank Limited,Profitability,Operating Profit,36397.13,value in rupees crore,value: Fiscal year data
+31-03-2021,Icici Bank Limited,Risk Exposure,Contingent Liabilities,2648640.67,value in rupees crore,value: Cumulative data
+31-03-2021,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,341752.59,value in rupees crore,value: Cumulative data
+31-03-2020,Icici Bank Limited,Credit Risk,Gross NPAs,40829.09,value in rupees crore,value: Cumulative data
+31-03-2020,Icici Bank Limited,Credit Risk,Gross Advances,676290.33,value in rupees crore,value: Cumulative data
+31-03-2020,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,6.04,value in percentage,value: Cumulative data
+2019-20,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,9214.62,value in rupees crores,value: Fiscal year data
+2019-20,Icici Bank Limited,Credit Risk,Actual Recoveries,4715.58,value in rupees crores,value: Fiscal year data
+2019-20,Icici Bank Limited,Credit Risk,Write-Offs,4579.47,value in rupees crores,value: Fiscal year data
+2019-20,Icici Bank Limited,Customer Service,Ombudsman Complaints,21372.00,value in absolute number,value: Fiscal year data
+2019-20,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,11844.00,value in absolute number,value: Fiscal year data
+2019-20,Icici Bank Limited,Operational Risk,Fraud Incidents,2126.00,value in absolute number,value: Fiscal year data
+2019-20,Icici Bank Limited,Operational Risk,Fraud Amount,5.72,value in rupees crore,value: Fiscal year data
+2019-20,Icici Bank Limited,Profitability,Provisions and Contingencies,20170.46,value in rupees crore,value: Fiscal year data
+2019-20,Icici Bank Limited,Profitability,Operating Profit,28101.28,value in rupees crore,value: Fiscal year data
+31-03-2020,Icici Bank Limited,Risk Exposure,Contingent Liabilities,2523825.80,value in rupees crore,value: Cumulative data
+31-03-2020,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,295558.98,value in rupees crore,value: Cumulative data
+31-03-2019,Icici Bank Limited,Credit Risk,Gross NPAs,45676.04,value in rupees crore,value: Cumulative data
+31-03-2019,Icici Bank Limited,Credit Risk,Gross Advances,618985.23,value in rupees crore,value: Cumulative data
+31-03-2019,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,7.38,value in percentage,value: Cumulative data
+2018-19,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,7607.49,value in rupees crores,value: Fiscal year data
+2018-19,Icici Bank Limited,Credit Risk,Write-Offs,5464.48,value in rupees crores,value: Fiscal year data
+2018-19,Icici Bank Limited,Credit Risk,Actual Recoveries,3073.16,value in rupees crores,value: Fiscal year data
+2018-19,Icici Bank Limited,Customer Service,Ombudsman Complaints,11257.00,value in absolute number,value: Fiscal year data
+2018-19,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,5092.00,value in absolute number,value: Fiscal year data
+2018-19,Icici Bank Limited,Operational Risk,Fraud Incidents,1737.00,value in absolute number,value: Fiscal year data
+2018-19,Icici Bank Limited,Operational Risk,Fraud Amount,4.90,value in rupees crore,value: Fiscal year data
+2018-19,Icici Bank Limited,Profitability,Provisions and Contingencies,20074.60,value in rupees crore,value: Fiscal year data
+2018-19,Icici Bank Limited,Profitability,Operating Profit,23437.90,value in rupees crore,value: Fiscal year data
+31-03-2019,Icici Bank Limited,Risk Exposure,Contingent Liabilities,1922038.29,value in rupees crore,value: Cumulative data
+31-03-2019,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,265517.42,value in rupees crore,value: Cumulative data
+31-03-2018,Icici Bank Limited,Credit Risk,Gross NPAs,53240.18,value in rupees crore,value: Cumulative data
+31-03-2018,Icici Bank Limited,Credit Risk,Gross Advances,537945.09,value in rupees crore,value: Cumulative data
+31-03-2018,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,9.90,value in percentage,value: Cumulative data
+2017-18,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,17657.25,value in rupees crores,value: Fiscal year data
+2017-18,Icici Bank Limited,Credit Risk,Write-Offs,5840.20,value in rupees crores,value: Fiscal year data
+2017-18,Icici Bank Limited,Credit Risk,Actual Recoveries,4176.08,value in rupees crores,value: Fiscal year data
+2017-18,Icici Bank Limited,Customer Service,Ombudsman Complaints,10465.00,value in absolute number,value: Fiscal year data
+2017-18,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,5162.00,value in absolute number,value: Fiscal year data
+2017-18,Icici Bank Limited,Operational Risk,Fraud Incidents,1902.00,value in absolute number,value: Fiscal year data
+2017-18,Icici Bank Limited,Operational Risk,Fraud Amount,6.44,value in rupees crore,value: Fiscal year data
+2017-18,Icici Bank Limited,Profitability,Provisions and Contingencies,17964.11,value in rupees crore,value: Fiscal year data
+2017-18,Icici Bank Limited,Profitability,Operating Profit,24741.53,value in rupees crore,value: Fiscal year data
+31-03-2018,Icici Bank Limited,Risk Exposure,Contingent Liabilities,1289244.00,value in rupees crore,value: Cumulative data
+31-03-2018,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,234982.99,value in rupees crore,value: Cumulative data
+31-03-2017,Icici Bank Limited,Credit Risk,Gross NPAs,42159.38,value in rupees crore,value: Cumulative data
+31-03-2017,Icici Bank Limited,Credit Risk,Gross Advances,482460.40,value in rupees crore,value: Cumulative data
+31-03-2017,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,8.74,value in percentage,value: Cumulative data
+2016-17,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,25969.35,value in rupees crores,value: Fiscal year data
+2016-17,Icici Bank Limited,Credit Risk,Write-Offs,10993.49,value in rupees crores,value: Fiscal year data
+2016-17,Icici Bank Limited,Credit Risk,Actual Recoveries,4918.55,value in rupees crores,value: Fiscal year data
+2016-17,Icici Bank Limited,Customer Service,Ombudsman Complaints,9541.00,value in absolute number,value: Fiscal year data
+2016-17,Icici Bank Limited,Profitability,Provisions and Contingencies,16685.66,value in rupees crore,value: Fiscal year data
+2016-17,Icici Bank Limited,Profitability,Operating Profit,26486.75,value in rupees crore,value: Fiscal year data
+31-03-2017,Icici Bank Limited,Risk Exposure,Contingent Liabilities,1030993.71,value in rupees crore,value: Cumulative data
+31-03-2017,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,204873.26,value in rupees crore,value: Cumulative data
+31-03-2016,Icici Bank Limited,Credit Risk,Gross NPAs,26221.25,value in rupees crore,value: Cumulative data
+31-03-2016,Icici Bank Limited,Credit Risk,Gross Advances,450182.56,value in rupees crore,value: Cumulative data
+31-03-2016,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,5.82,value in percentage,value: Cumulative data
+2015-16,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,11049.65,value in rupees crores,value: Fiscal year data
+2015-16,Icici Bank Limited,Credit Risk,Write-Offs,2634.94,value in rupees crores,value: Fiscal year data
+2015-16,Icici Bank Limited,Credit Risk,Actual Recoveries,1488.04,value in rupees crores,value: Fiscal year data
+2015-16,Icici Bank Limited,Customer Service,Ombudsman Complaints,7900.00,value in absolute number,value: Fiscal year data
+2015-16,Icici Bank Limited,Customer Service,Total Maintainable Complaints Disposed,3578.00,value in absolute number,value: Fiscal year data
+2015-16,Icici Bank Limited,Profitability,Provisions and Contingencies,14137.25,value in rupees crore,value: Fiscal year data
+2015-16,Icici Bank Limited,Profitability,Operating Profit,23863.53,value in rupees crore,value: Fiscal year data
+31-03-2016,Icici Bank Limited,Risk Exposure,Contingent Liabilities,900798.78,value in rupees crore,value: Cumulative data
+31-03-2016,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,183095.75,value in rupees crore,value: Cumulative data
+31-03-2015,Icici Bank Limited,Credit Risk,Gross NPAs,15094.69,value in rupees crore,value: Cumulative data
+31-03-2015,Icici Bank Limited,Credit Risk,Gross Advances,398962.03,value in rupees crore,value: Cumulative data
+31-03-2015,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,3.78,value in percentage,value: Cumulative data
+2014-15,Icici Bank Limited,Credit Risk,New Acretion to NPAs from Standard Advances,7051.73,value in rupees crores,value: Fiscal year data
+2014-15,Icici Bank Limited,Credit Risk,Write-Offs,1524.38,value in rupees crores,value: Fiscal year data
+2014-15,Icici Bank Limited,Credit Risk,Actual Recoveries,953.24,value in rupees crores,value: Fiscal year data
+2014-15,Icici Bank Limited,Customer Service,Ombudsman Complaints,6116.00,value in absolute number,value: Fiscal year data
+2014-15,Icici Bank Limited,Profitability,Provisions and Contingencies,8544.56,value in rupees crore,value: Fiscal year data
+2014-15,Icici Bank Limited,Profitability,Operating Profit,19719.91,value in rupees crore,value: Fiscal year data
+31-03-2015,Icici Bank Limited,Risk Exposure,Contingent Liabilities,851977.61,value in rupees crore,value: Cumulative data
+31-03-2015,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,160917.90,value in rupees crore,value: Cumulative data
+31-03-2014,Icici Bank Limited,Credit Risk,Gross NPAs,10505.84,value in rupees crore,value: Cumulative data
+31-03-2014,Icici Bank Limited,Credit Risk,Gross Advances,347211.50,value in rupees crore,value: Cumulative data
+31-03-2014,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,3.03,value in percentage,value: Cumulative data
+2013-14,Icici Bank Limited,Customer Service,Ombudsman Complaints,5325.00,value in absolute number,value: Fiscal year data
+2013-14,Icici Bank Limited,Profitability,Provisions and Contingencies,6784.10,value in rupees crore,value: Fiscal year data
+2013-14,Icici Bank Limited,Profitability,Operating Profit,16594.57,value in rupees crore,value: Fiscal year data
+31-03-2014,Icici Bank Limited,Risk Exposure,Contingent Liabilities,781430.45,value in rupees crore,value: Cumulative data
+31-03-2014,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,133664.46,value in rupees crore,value: Cumulative data
+31-03-2013,Icici Bank Limited,Credit Risk,Gross NPAs,9607.75,value in rupees crore,value: Cumulative data
+31-03-2013,Icici Bank Limited,Credit Risk,Gross Advances,298416.35,value in rupees crore,value: Cumulative data
+31-03-2013,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,3.22,value in percentage,value: Cumulative data
+2012-13,Icici Bank Limited,Profitability,Provisions and Contingencies,4873.76,value in rupees crore,value: Fiscal year data
+2012-13,Icici Bank Limited,Profitability,Operating Profit,13199.23,value in rupees crore,value: Fiscal year data
+31-03-2013,Icici Bank Limited,Risk Exposure,Contingent Liabilities,789989.31,value in rupees crore,value: Cumulative data
+31-03-2013,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,115676.72,value in rupees crore,value: Cumulative data
+31-03-2012,Icici Bank Limited,Credit Risk,Gross NPAs,9292.60,value in rupees crore,value: Cumulative data
+31-03-2012,Icici Bank Limited,Credit Risk,Gross Advances,192333.80,value in rupees crore,value: Cumulative data
+31-03-2012,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,4.83,value in percentage,value: Cumulative data
+2011-12,Icici Bank Limited,Profitability,Provisions and Contingencies,3921.22,value in rupees crore,value: Fiscal year data
+2011-12,Icici Bank Limited,Profitability,Operating Profit,10386.47,value in rupees crore,value: Fiscal year data
+31-03-2012,Icici Bank Limited,Risk Exposure,Contingent Liabilities,915465.11,value in rupees crore,value: Cumulative data
+31-03-2012,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,101762.60,value in rupees crore,value: Cumulative data
+31-03-2011,Icici Bank Limited,Credit Risk,Gross NPAs,9815.96,value in rupees crore,value: Cumulative data
+31-03-2011,Icici Bank Limited,Credit Risk,Gross Advances,169181.76,value in rupees crore,value: Cumulative data
+31-03-2011,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,5.80,value in percentage,value: Cumulative data
+2010-11,Icici Bank Limited,Profitability,Provisions and Contingencies,3896.17,value in rupees crore,value: Fiscal year data
+2010-11,Icici Bank Limited,Profitability,Operating Profit,9047.54,value in rupees crore,value: Fiscal year data
+31-03-2011,Icici Bank Limited,Risk Exposure,Contingent Liabilities,923121.61,value in rupees crore,value: Cumulative data
+31-03-2011,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,104306.93,value in rupees crore,value: Cumulative data
+31-03-2010,Icici Bank Limited,Credit Risk,Gross NPAs,9267.42,value in rupees crore,value: Cumulative data
+31-03-2010,Icici Bank Limited,Credit Risk,Gross Advances,142100.56,value in rupees crore,value: Cumulative data
+31-03-2010,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,6.52,value in percentage,value: Cumulative data
+2009-10,Icici Bank Limited,Profitability,Provisions and Contingencies,5707.20,value in rupees crore,value: Fiscal year data
+2009-10,Icici Bank Limited,Profitability,Operating Profit,9732.18,value in rupees crore,value: Fiscal year data
+31-03-2010,Icici Bank Limited,Risk Exposure,Contingent Liabilities,727084.06,value in rupees crore,value: Cumulative data
+31-03-2010,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,74997.68,value in rupees crore,value: Cumulative data
+31-03-2009,Icici Bank Limited,Credit Risk,Gross NPAs,9649.31,value in rupees crore,value: Cumulative data
+31-03-2009,Icici Bank Limited,Credit Risk,Gross Advances,223621.09,value in rupees crore,value: Cumulative data
+31-03-2009,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,4.32,value in percentage,value: Cumulative data
+2008-09,Icici Bank Limited,Profitability,Provisions and Contingencies,5167.09,value in rupees crore,value: Fiscal year data
+2008-09,Icici Bank Limited,Profitability,Operating Profit,8925.23,value in rupees crore,value: Fiscal year data
+31-03-2009,Icici Bank Limited,Risk Exposure,Contingent Liabilities,834683.00,value in rupees crore,value: Cumulative data
+31-03-2009,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,82985.57,value in rupees crore,value: Cumulative data
+31-03-2008,Icici Bank Limited,Credit Risk,Gross NPAs,7580.00,value in rupees crore,value: Cumulative data
+31-03-2008,Icici Bank Limited,Credit Risk,Gross Advances,229892.00,value in rupees crore,value: Cumulative data
+31-03-2008,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,3.30,value in percentage,value: Cumulative data
+2007-08,Icici Bank Limited,Profitability,Provisions and Contingencies,3802.95,value in rupees crore,value: Fiscal year data
+2007-08,Icici Bank Limited,Profitability,Operating Profit,7960.68,value in rupees crore,value: Fiscal year data
+31-03-2008,Icici Bank Limited,Risk Exposure,Contingent Liabilities,1211082.33,value in rupees crore,value: Cumulative data
+31-03-2008,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,89783.05,value in rupees crore,value: Cumulative data
+31-03-2007,Icici Bank Limited,Credit Risk,Gross NPAs,4126.00,value in rupees crore,value: Cumulative data
+31-03-2007,Icici Bank Limited,Credit Risk,Gross Advances,198193.00,value in rupees crore,value: Cumulative data
+31-03-2007,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,2.08,value in percentage,value: Cumulative data
+2006-07,Icici Bank Limited,Profitability,Provisions and Contingencies,2764.19,value in rupees crore,value: Fiscal year data
+2006-07,Icici Bank Limited,Profitability,Operating Profit,5874.41,value in rupees crore,value: Fiscal year data
+31-03-2007,Icici Bank Limited,Risk Exposure,Contingent Liabilities,562959.91,value in rupees crore,value: Cumulative data
+31-03-2007,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,85236.57,value in rupees crore,value: Cumulative data
+31-03-2006,Icici Bank Limited,Credit Risk,Gross NPAs,2222.58,value in rupees crore,value: Cumulative data
+31-03-2006,Icici Bank Limited,Credit Risk,Gross Advances,147625.31,value in rupees crore,value: Cumulative data
+31-03-2006,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,1.51,value in percentage,value: Cumulative data
+2005-06,Icici Bank Limited,Profitability,Provisions and Contingencies,1348.34,value in rupees crore,value: Fiscal year data
+2005-06,Icici Bank Limited,Profitability,Operating Profit,3888.42,value in rupees crore,value: Fiscal year data
+31-03-2006,Icici Bank Limited,Risk Exposure,Contingent Liabilities,395033.67,value in rupees crore,value: Cumulative data
+31-03-2006,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,56646.60,value in rupees crore,value: Cumulative data
+31-03-2005,Icici Bank Limited,Credit Risk,Gross NPAs,2770.40,value in rupees crore,value: Cumulative data
+31-03-2005,Icici Bank Limited,Credit Risk,Gross Advances,93044.60,value in rupees crore,value: Cumulative data
+31-03-2005,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,2.98,value in percentage,value: Cumulative data
+2004-05,Icici Bank Limited,Profitability,Provisions and Contingencies,950.80,value in rupees crore,value: Fiscal year data
+2004-05,Icici Bank Limited,Profitability,Operating Profit,2956.00,value in rupees crore,value: Fiscal year data
+31-03-2005,Icici Bank Limited,Risk Exposure,Contingent Liabilities,268153.74,value in rupees crore,value: Cumulative data
+31-03-2005,Icici Bank Limited,Risk Exposure,Exposure to sensitive sectors,40236.42,value in rupees crore,value: Cumulative data
+31-03-2004,Icici Bank Limited,Credit Risk,Gross NPAs,3047.59,value in rupees crore,value: Cumulative data
+31-03-2004,Icici Bank Limited,Credit Risk,Gross Advances,63823.03,value in rupees crore,value: Cumulative data
+31-03-2004,Icici Bank Limited,Credit Risk,Gross NPAs to Gross Advances Ratio,4.78,value in percentage,value: Cumulative data
